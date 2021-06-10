@@ -4,7 +4,10 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="GradeCard.java" type="PLAIN_TEXT" />
+      <mapping pattern="RankMapperExtend.xml" type="PLAIN_TEXT" />
       <mapping pattern="Java常见关键字总结" type="PLAIN_TEXT" />
+      <mapping pattern="RankMapperExtend" type="XML" />
+      <mapping pattern="aa" type="XML" />
     </extensionMap>
   </component>
 </application>
