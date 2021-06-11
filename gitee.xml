@@ -3,5 +3,11 @@
     <account id="0cebb20c-03ef-4ff0-8323-84a414753ed5" name="sherlockvarious">
       <Server host="gitee.com" clientid="fc439d90cb2ffc20cffeb70a6a4039e69847485e0fa56cfa0d1bf006098e24dd" clientsecret="386f187646ee361049f69cd213424bdba5af03e820d10a68a68e5fb520902596" />
     </account>
+    <account id="bdb65a6e-7aba-4887-972b-38e3e1cac6cc" name="sherlockvarious">
+      <Server useHttp="false" host="gitee.com" clientid="fc439d90cb2ffc20cffeb70a6a4039e69847485e0fa56cfa0d1bf006098e24dd" clientsecret="386f187646ee361049f69cd213424bdba5af03e820d10a68a68e5fb520902596" />
+    </account>
+  </component>
+  <component name="GiteeSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
